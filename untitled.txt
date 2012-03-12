@@ -1,0 +1,3 @@
+public void foo(int bar){
+	apa = bar;
+}
